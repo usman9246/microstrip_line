@@ -1,0 +1,3 @@
+Always place the Info.jpg in the same directory with the .m and .fig files before running...
+
+Thanks
